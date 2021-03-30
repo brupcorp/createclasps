@@ -2,6 +2,7 @@
 createclass with cpp and header using a powershell script
 
 !!! you need to have powershell installed (normally contained in the Windows 10 standart installation)
+
 !!! if you wand a guide to how to install powershell follow thi link: https://docs.microsoft.com/de-de/powershell/scripting/install/installing-powershell?view=powershell-7.1
 
 
