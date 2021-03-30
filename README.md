@@ -1,7 +1,8 @@
 # createclass with command
 createclass with cpp and header using a powershell script
 
-syntax: createclass nameofclass -nolib
+syntax:
+PS:>createclass nameofclass -nolib
 
 "nameofclass" should be replaced with the name you want to name your class
 
