@@ -1,4 +1,4 @@
-# createclasps
+# createclass with command
 createclass with cpp and header using a powershell script
 
 syntax: createclass <nameofclass> -nolib
