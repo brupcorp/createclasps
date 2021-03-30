@@ -1,6 +1,7 @@
 # createclass with command
 createclass with cpp and header using a powershell script
-!you need to have powershell installed (normally contained in the windows standart installation)
+
+! you need to have powershell installed (normally contained in the windows standart installation) !
 
 syntax:
 PS:>createclass nameofclass -nolib
