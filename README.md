@@ -5,8 +5,6 @@ createclass with cpp and header using a powershell script
 
 !!! if you wand a guide to how to install powershell follow thi link: https://docs.microsoft.com/de-de/powershell/scripting/install/installing-powershell?view=powershell-7.1
 
-
-
 syntax:
 PS:>createclass nameofclass -nolib
 
