@@ -10,5 +10,5 @@ PS:>createclass nameofclass -nolib
 
 "nameofclass" should be replaced with the name you want to name your class
 
-"-nolib" is optional if added it will create both the header and cpp file in the current directory \n
+"-nolib" is optional if added it will create both the header and cpp file in the current directory 
 not using "-nolib" will result in (if they don't already exist) creating a "src" and "include" folder and placing the header-file in "include" and source-file in "src"
